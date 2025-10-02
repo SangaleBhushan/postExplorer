@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BIZ/Icons/ic_delete</title>
+    <g id="BIZ/Icons/ic_delete" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        <g id="delete" transform="translate(3.000000, 3.000000)" stroke="#ED8B00" stroke-width="1.5">
+            <circle id="Oval" cx="9" cy="9" r="8.25"></circle>
+            <g id="Group" transform="translate(6.500000, 6.500000)" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="5" y1="0" x2="0" y2="5" id="Path"></line>
+                <line x1="0" y1="0" x2="5" y2="5" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>
